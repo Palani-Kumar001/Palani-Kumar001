@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-![](https://github.com/anselumjuju/anselumjuju/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://github.com/anselumjuju/anselumjuju/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![](https://github.com/Palani-Kumar001/Palani-Kumar001/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://github.com/Palani-Kumar001/Palani-Kumar001/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anselumjuju&base=1000)
 
