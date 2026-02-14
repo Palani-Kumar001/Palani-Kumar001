@@ -3,7 +3,7 @@
 ![](https://github.com/Palani-Kumar001/Palani-Kumar001/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://github.com/Palani-Kumar001/Palani-Kumar001/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-![Profile Views](https://komarev.com/ghpvc/?username=anselumjuju&base=1000)
+![Profile Views](https://komarev.com/ghpvc/?username=Palani-Kumar001&base=1000)
 
 <!-- Social Links -->
 
